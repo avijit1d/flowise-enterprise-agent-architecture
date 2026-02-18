@@ -9,7 +9,12 @@ The solution showcases how AI agents can be architected to:
   - Apply responsible AI guardrails
 
 This implementation reflects **production-oriented architecture principles rather than a simple chatbot prototype**.
-
+<p align="center">
+  <img src="UI images/UI Home Page.png" width="600"/>
+</p>
+<p align="center"><em>
+Figure 1: Simple User Interface.
+</em></p>
 ---
 
 # Executive Summary
@@ -41,11 +46,11 @@ The system follows a layered enterprise architecture:
   - **Governance Layer**
     - Input/Output content safety
     - Prompt injection mitigation
-  <p align="center">
+<p align="center">
   <img src="architecture/solution architecture.png" width="600"/>
 </p>
 <p align="center"><em>
-Figure 1: Solution Architecture building block.
+Figure 2: Solution Architecture building block.
 </em></p>
 
 ---
