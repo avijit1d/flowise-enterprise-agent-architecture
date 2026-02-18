@@ -1,5 +1,5 @@
 # Overview
-This repository demonstrates an **enterprise-grade multi-agent AI orchestration** framework built using Flowise and OpenAI models.
+This repository demonstrates a small-scale **enterprise-grade multi-agent AI orchestration** pattern built using Flowise and OpenAI models.
 The solution showcases how AI agents can be architected to:
   - Route requests through a master orchestration layer
   - FAQ answering using simple RAG implementation
