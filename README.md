@@ -15,6 +15,7 @@ This implementation reflects **production-oriented architecture principles rathe
 <p align="center"><em>
 Figure 1: Simple User Interface.
 </em></p>
+
 ---
 
 # Executive Summary
