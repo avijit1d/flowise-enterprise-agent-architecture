@@ -100,3 +100,10 @@ Figure 2: Solution Architecture building block.
     - RAG agent (using vector DB) for question-answering
     - Document processing agent for key attributes extraction (from contract document) and populate to system of records
     - RBAC
+
+---
+
+# Disclaimer
+
+This repository demonstrates architecture and engineering practices for enterprise AI systems.  
+It does not contain proprietary data or confidential configurations.
